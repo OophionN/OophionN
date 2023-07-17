@@ -16,6 +16,6 @@
 
 Контакты:
 
-Telegram: [https://t.me/max_imka](https://t.me/OophionN)
+Telegram: [https://t.me/OophionN](https://t.me/OophionN)
 
 Email: maksar503@gmail.com
