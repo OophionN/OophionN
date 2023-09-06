@@ -1,35 +1,6 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <title>Приветствие от Максима</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 20px;
-      line-height: 1.6;
-      background-color: #f2f2f2;
-    }
-    header {
-      background-color: #4CAF50;
-      color: white;
-      text-align: center;
-      padding: 10px;
-    }
-    h1, h2, h3 {
-      margin-top: 20px;
-      margin-bottom: 10px;
-    }
-    ul {
-      list-style-type: none;
-    }
-    a {
-      color: blue;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-  </style>
+
 </head>
 <body>
 
